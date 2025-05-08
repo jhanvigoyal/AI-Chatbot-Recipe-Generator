@@ -1,1 +1,2 @@
 # AI-Chatbot-Recipe-Generator
+This web-based application leverages AI to generate personalized recipes based on user prompts and cuisine preferences. Users can input dish names or ingredients to receive detailed recipes, while a built-in calorie calculator provides customized nutritional insights. The interface also includes interactive dropdowns for exploring a variety of global cuisines, making meal planning intuitive and engaging.
